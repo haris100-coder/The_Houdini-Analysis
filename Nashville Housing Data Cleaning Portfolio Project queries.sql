@@ -163,3 +163,4 @@ drop column PropertyAddress,OwnerAddress, TaxDistrict
 Alter Table  PortfolioProjects..NashvilleHousing
 drop column SaleDate
 
+
